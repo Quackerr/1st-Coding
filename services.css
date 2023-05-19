@@ -18,6 +18,7 @@ h2 {
     padding-bottom: 15px;
     padding-top: 30px;
     text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .img2 {
@@ -28,3 +29,4 @@ h2 {
 .btn {
     background-color: black;
 }
+

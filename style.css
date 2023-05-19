@@ -4,6 +4,8 @@ h1 {
     padding-right: 20px;
     padding-bottom: 20px;
     text-align: center;
+    font-family: 'Times New Roman', Times, serif;   
+    font-size: 30px;
 
 }
 
@@ -20,13 +22,9 @@ header {
 
 body {
     padding-top: 150px;
-
 }
 
 .btn {
     background-color: black;
 }
 
-body {
-    background-color: rgb(204, 199, 199);
-}

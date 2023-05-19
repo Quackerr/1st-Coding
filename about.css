@@ -2,14 +2,16 @@ h1 {
     padding: 50px;
     text-align: center;
     font-style: oblique;
+    font-size: 50px;
 
 }
 
 h2 {
     padding: 50px;
     text-align:left;
-    font-size: medium;
+    font-size: 50px;
     padding-left: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
@@ -17,7 +19,8 @@ h2 {
     text-align: center;
     padding-left: 275px;
     padding-right: 275px;
-    font-size: 20px;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
     
 }
 
